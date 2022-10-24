@@ -1,6 +1,6 @@
 # Eulji University 
 ## Object oriented programming
-### mini-game-project 📕
+### 📕 mini-game-project
 
 ### 오픈소스를 이용하여 만든 슈팅게임입니다.
 - 코드를 다운받은 후 사용하세요.
